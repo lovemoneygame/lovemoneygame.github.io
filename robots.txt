@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://https://lovemoneygame.github.io/sitemap.xml
+Sitemap: https://lovemoneygame.github.io/sitemap.xml
